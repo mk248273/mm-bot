@@ -1,4 +1,4 @@
-flask
+Flask==2.2.3
 flask_cors
 python-dotenv
 faiss-cpu
@@ -9,3 +9,7 @@ pydub
 yt_dlp
 beautifulsoup4
 google-genai
+google-generativeai
+gunicorn==20.0.4
+grpcio
+Werkzeug==2.2.3
