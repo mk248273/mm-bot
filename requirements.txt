@@ -8,3 +8,4 @@ PyPDF2
 pydub
 yt_dlp
 beautifulsoup4
+google-genai
